@@ -1,7 +1,10 @@
 <div class="social-icons">
     <div>
       {% if site.github_username %}
-        <a class="fa fa-github" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer"></a>
+        <a class="fab fa-github" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer"></a>
+      {% endif %}
+      {% if site.discord_invite %}
+        <a class="fab fa-discord" href="{{ site.discord_invite }}" target="_blank" rel="noopener noreferrer"></a>
       {% endif %}
       {% if site.bitbucket_username %}
         <a class="fa fa-bitbucket" href="https://bitbucket.org/{{ site.bitbucket_username }}"target="_blank" rel="noopener noreferrer"></a>

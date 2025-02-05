@@ -3,11 +3,28 @@ layout: default
 tags: home
 ---
 
-# 🤖 MTE 481/482 Capstone <br/> Group 46
+# ![logo](/images/favicon-32x32.png) MTE Capstone Group 46
 
 ### What?
 
 This project aims to develop a low-cost self-balancing robot that can be used as an autonomous information kiosk on a university campus. The robot is designed to navigate the campus environment, providing students and visitors with real-time information and assistance. It features a user-friendly interface and modular design, making it an ideal platform for individuals without robotics experience to work with and expand upon. The project emphasizes affordability, accessibility, and adaptability, ensuring that the robot can be easily customized and upgraded to meet various needs and applications.
+
+### Bracket Bot is a $600 open-source robotics dev kit
+
+With Bracket Bot you can…
+
+- Learn and implement [robotics algorithms](https://github.com/AtsushiSakai/PythonRobotics)
+- Build a physical version of FaceTime
+- Add an [arm](https://github.com/huggingface/lerobot) and make it useful!
+- And so much more
+
+![robot](/images/3_bracketbots.avif)
+
+### How to get started
+
+Documentation is available [here](https://docs.bracket.bot/docs/kit-assembly)
+
+Source code is available [here](https://github.com/BracketBotCapstone/quickstart)
 
 ### Members
 
